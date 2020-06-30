@@ -1,6 +1,6 @@
 # Obliques Strategies by Brian Eno and Peter Schmidt - 115 Obliques Strategies cards for UX Design and artistic activities
 
-A la recherche de nouvelles idées ou tout simplement en manque d’inspiration sur un sujet donné ? Je vous recommande de tester le jeu de cartes des Stratégies Obliques créé par Brian Eno et Peter Schmidt. Je viens d’en créer une version FR/EN sous forme de cartes de visite à imprimer.
+A la recherche de nouvelles idées ou tout simplement en manque d’inspiration sur un sujet donné ? Je vous recommande de tester le jeu de cartes des Stratégies Obliques créé par Brian Eno et Peter Schmidt. Je viens d’en générer une version FR/EN sous forme de cartes de visite à imprimer.
 
 Basées sur le principe de la pensée latérale, ces cartes permettent de doper son processus créatif en évaluant un problème sous des angles inhabituels et favorisant ainsi l’émergence de nouvelles idées originales.
 
